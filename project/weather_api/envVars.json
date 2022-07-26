@@ -1,0 +1,7 @@
+{
+  "envVars": {
+    "MAX_RETRY": 3,
+    "API_KEY": "qG3K6KYaAz1zSlD7PiHBE7I1pQiAdxzF",
+    "URL": "http://dataservice.accuweather.com/currentconditions/v1/topcities/150"
+  }
+}
